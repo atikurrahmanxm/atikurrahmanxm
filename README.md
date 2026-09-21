@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=🛡️+Cybersecurity+Aspirant;🐍+Python+%26+Django+Developer;🤖+AI+%2F+ML+Enthusiast;🔓+Ethical+Hacking+%26+Open+Source+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Cybersecurity+Aspirant+%7C+Python+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -119,20 +119,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atikurrahmanxm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atikurrahmanxm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff" alt="Top Languages" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=atikurrahmanxm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="GitHub Stats" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=atikurrahmanxm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff" alt="Top Languages" height="170" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atikurrahmanxm&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=atikurrahmanxm&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" alt="GitHub Streak" width="60%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atikurrahmanxm&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=atikurrahmanxm&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
