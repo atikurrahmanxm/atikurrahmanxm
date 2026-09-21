@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ATIKUR%20RAHMAN&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Aspirant%20%7C%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=51&descAlign=50&descSize=18" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ATIKUR%20RAHMAN&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20%7C%20Python%20Developer%20%7C%20AI%2FML&descAlignY=51&descAlign=50&descSize=18" alt="Header Banner" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Cybersecurity+Aspirant+%7C+Python+Developer+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Cybersecurity+%7C+Python+Developer+%7C+AI%2FML" alt="Typing SVG" />
 </p>
 
 <p align="center">
